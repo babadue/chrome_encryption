@@ -4,6 +4,8 @@
 
 A Chrome extension for encrypting Gmail email that utilizes both asymmetric encryption (RSA) and symmetric encryption (AES).
 
+As it turned out, this extension also works perfectly with Microsoft Edge without any modifications.
+
 ## Purposes:
 
 This project demonstrates an easy and practical approach to encrypting Gmail emails using RSA public/private keys and AES encryption methods.
